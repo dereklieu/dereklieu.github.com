@@ -1,0 +1,22 @@
+{
+  "name": "lieu.io",
+  "version": "0.0.1",
+  "description": "dereklieu.github.com ====================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dereklieu/dereklieu.github.com.git"
+  },
+  "author": "Derek Lieu <dl@dereklieu.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dereklieu/dereklieu.github.com/issues"
+  },
+  "homepage": "https://github.com/dereklieu/dereklieu.github.com#readme",
+  "dependencies": {
+    "milligram": "^1.3.0"
+  }
+}
